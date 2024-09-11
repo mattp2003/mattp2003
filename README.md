@@ -7,6 +7,9 @@ Howdy 😄 I'm Matthew Nhat Phan, and this is my personal GitHub page - a showro
 As an enthusiastic and ambitious student pursuing Computer Science undergraduate, I’ve gained a strong foundation in the software development lifecycle and data engineering through more than 3 years of academic projects and collaborative team experiences. I'm most interested in the study of data and the usage of making them extremely valuable for one specific entity. This includes engineering databases for scalability and tuning impactful Machine Learning models to provide valuable insights on the data. I'm familiar with technologies, such as Scikit-learn, TensorFlow, XGBoost, Pandas, Numpy, and Matplotlib/Seaborn. 
 
 # Technolgies and Tools
+
+Here are some of the technologies that I have utilized in my past projects. 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
