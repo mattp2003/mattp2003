@@ -1,4 +1,4 @@
-## Welcome to my digital playground! 🚀
+## Welcome to my Github profile! 🚀
 
 Howdy 😄 I'm Matthew Nhat Phan, and this is my personal GitHub page - a showroom of my exploration, creation, and contribution to fun projects. I'm currently studying at the University of California, Irvine, pursuring my major of Computer Science and Entrepreneurship. When it comes to coding, it's my passion to deliver the best practices, producing high-quality and clean code that is scalable.
 
